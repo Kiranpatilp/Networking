@@ -57,3 +57,8 @@ https://medium.com/@copyconstruct/nonblocking-i-o-99948ad7c957
 When TCP sockets refuse to die:
 ------------------------------
 https://blog-cloudflare-com.cdn.ampproject.org/c/s/blog.cloudflare.com/when-tcp-sockets-refuse-to-die/amp/
+
+
+Queueing in the Linux Network Stack:
+-----------------------------------
+https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
