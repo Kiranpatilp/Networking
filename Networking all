@@ -1,4 +1,3 @@
-gatevidyalay
 
 3 Way Handshake | TCP Connection:
 ---------------------------------
@@ -38,9 +37,15 @@ https://youtu.be/rYodcvhh7b8
 http://www.practicalnetworking.net/series/packet-traveling/packet-traveling/
 
 
+Host to Host through a Switch:
+-----------------------------
+http://www.practicalnetworking.net/series/packet-traveling/host-to-host-through-a-switch/
+
+
 Socket programming(TCP/UDP):
 ---------------------------
-
+Book by W. Richard Stevens
+(2003-unix-network-programming-vol-1-3rd-ed (7).pdf)
 
 
 epoll | seect | poll:
