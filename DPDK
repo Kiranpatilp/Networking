@@ -6,7 +6,9 @@
  https://software.intel.com/en-us/articles/memory-in-dpdk-part-3-1711-and-earlier-releases
  https://software.intel.com/en-us/articles/memory-in-dpdk-part-4-1811-and-beyond
 
-
+Newer Memory managment in DPDK(18.05):
+-------------------------------------
+    https://gshankarmk.wordpress.com/2020/08/28/newer-memory-management-in-dpdk-v18-05-onwards/
 
 https://www.slideshare.net/SaifuddinKaijar/intel-dpdk-tutorial
 https://www.slideshare.net/garyachy/dpdk-44585840
